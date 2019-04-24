@@ -24,7 +24,7 @@ Note: This works best having access to a music media streamer like Spotify, Goog
 4. Listen to one studio album at a time per day
 5. Spend 5-10 minutes researching the album on Wikipedia
 6. Stick with one band at a time (if you try two it becomes too much..i know)
-7. (optional)Feel free to share your experience with me on Twitter: https://twitter.com/Binary2Dec0010
+7. (optional)Feel free to share your experience with me on Twitter: <https://twitter.com/Binary2Dec0010>
  
 
 Examples of bands I completed: Pink Floyd, Lou Reed (whoa, lots of music), Radiohead, The Stooges, The Ramones, Sonic Youth, etc.
